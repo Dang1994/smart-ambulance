@@ -20,23 +20,23 @@ This repository contains the code and documentation for a hybrid, app-based emer
 ```
 emergency-response-system/
 ├── app/                  # Source code for the mobile application
-├── backend/              # Backend server and APIs
-├── machine_learning/     # Machine learning models and algorithms
-├── iot_integration/      # IoT device integration and communication
-├── docs/                 # Documentation and project details
-├── tests/                # Unit and integration tests
+├── backend/              # Backend server and APIs #TODO
+├── machine_learning/     # Machine learning models and algorithms #TODO
+├── iot_integration/      # IoT device integration and communication #TODO
+├── docs/                 # Documentation and project details #TODO
+├── tests/                # Unit and integration tests #TODO
 └── README.md             # This file
 ```
 
 ## Getting Started
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/emergency-response-system.git
-   cd emergency-response-system
+   git clone https://github.com/Dang1994/smart-ambulance
+   cd smart-ambulance
    ```
 2. **Set Up the Environment**:
    - Install dependencies for the app, backend, and machine learning components.
-   - Configure IoT devices and GPS integration as per the documentation.
+   - Configure IoT devices and GPS integration as per the documentation. #TODO
 3. **Run the System**:
    - Start the backend server and mobile app.
    - Deploy machine learning models for predictive analytics.
@@ -51,11 +51,7 @@ We welcome contributions! Please follow these steps:
 3. Submit a pull request with a detailed description of your changes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
-For questions or feedback, please reach out to [your-email@example.com] or open an issue in the repository.
-
----
-
-This system aims to revolutionize emergency response by reducing delays, improving coordination, and enhancing patient outcomes. Thank you for your interest and support! 🚑
+For questions or feedback, please reach out to [w.subrat@gmail.com] or open an issue in the repository.
